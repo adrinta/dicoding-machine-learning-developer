@@ -32,7 +32,7 @@ Attribute Information:
 
 ## Results
 
-**Training Graph**
+**Learning Graph**
 
 ![alt text](https://raw.githubusercontent.com/adrinta/dicoding-machine-learning-developer/main/Natural%20Language%20Processing/Assets/Learning%20Graph.png)
 
